@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+braa: 
+braa:   a mass snmp scanner
+braa: 
+braa:   Braa is a mass snmp scanner. The intended usage of such a tool 
+braa:   is of course making SNMP queries. – but unlike snmpget or snmpwalk from
+braa:   net-snmp, it is able to query dozens or hundreds of hosts 
+braa:   simultaneously, and in a single process.
+braa:
+braa: 
+braa: 
+braa:
