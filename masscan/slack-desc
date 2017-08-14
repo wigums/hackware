@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+        | -----handy-ruler------------------------------------------------------|
+masscan: TCP port scanner
+masscan:
+masscan: This is the fastest Internet port scanner. It can scan the entire 
+masscan:     Internet in under 6 minutes, transmitting 10 million packets per 
+masscan: second
+masscan: 
+masscan: 
+masscan: 
+masscan:
+masscan: 
+masscan:
