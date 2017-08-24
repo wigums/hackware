@@ -27,7 +27,7 @@
 PRGNAM=ntop
 VERSION=${VERSION:-5.0.1}
 BUILD=${BUILD:-1}
-TAG=${TAG:-_SBo}
+TAG=${TAG:-_wigums}
 LINK=${LINK:-"http://downloads.sourceforge.net/ntop/ntop-5.0.1.tar.gz"}
 
 NTOPUSER=${NTOPUSER:-ntop}
@@ -42,7 +42,7 @@ if [ -z "$ARCH" ]; then
 fi
 
 CWD=$(pwd)
-TMP=${TMP:-/tmp/SBo}
+TMP=${TMP:-/tmp/wigums}
 PKG=$TMP/package-$PRGNAM
 OUTPUT=${OUTPUT:-/tmp}
 
