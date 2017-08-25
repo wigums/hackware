@@ -22,5 +22,6 @@ This is the main Hackware slackbuild script repository
 
 ### Who do I talk to? ###
 
-* wigums <wigums1@yandex.com>
-* i can be found on freenode. just pm me
+* wigums <wigums@protonmail.com>
+* i can be found on freenode. in ##slackware-help
+* or just pm me
