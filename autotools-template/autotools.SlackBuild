@@ -1,6 +1,6 @@
 #!/bin/sh
 # Slackware build script for aircrack-ng
-# Written by wigums
+# Written by wigums <wigums@protonmail.com>
 
 PRGNAM=aircrack-ng
 VERSION=${VERSION:-1.2-rc4}

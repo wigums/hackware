@@ -1,6 +1,6 @@
 #!/bin/sh
 # Slackware build script for aircrack-ng
-# Written by wigums
+# Written by wigums <wigums@protonmail.com>
 
 PRGNAM=masscan
 VERSION=${VERSION:-1.0.4}

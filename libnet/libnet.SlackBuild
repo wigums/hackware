@@ -1,11 +1,10 @@
 #!/bin/sh
 
 # Slackbuild for libnet
-# Joe Rozner livinded@deabytes.net
-# Wednesday 08/22/2007
+# wigums <wigums@protonmail.com
+# copyright 2017
 
-# Modified by Roberto Neri <rneri@libero.it> to
-# - remove CVS directories from source tree and miscellaneous script cleanup
+
 
 PRGNAM=libnet
 VERSION=${VERSION:-1.2-rc3}

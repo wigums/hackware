@@ -1,6 +1,6 @@
 #!/bin/sh
 # Slackware build script for dnstracer
-# Written by wigums
+# Written by wigums  <wigums@protonmail.com>
 
 PRGNAM=dnstracer
 VERSION=${VERSION:-1.9}

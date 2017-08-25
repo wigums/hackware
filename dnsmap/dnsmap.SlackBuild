@@ -1,6 +1,6 @@
 #!/bin/sh
 # Slackware build script for aircrack-ng
-# Written by wigums
+# Written by wigums <wigums@protonmail.com>
 
 PRGNAM=dnsmap
 VERSION=${VERSION:-0.30}

@@ -27,7 +27,6 @@
 # available from http://www.maxmind.com
 # (Creative Commons Attribution-ShareAlike 4.0 International License)
 
-# Maintained by David Spencer <baildon.research@googlemail.com>
 
 PRGNAM=GeoIP
 VERSION=${VERSION:-1.6.11}
