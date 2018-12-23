@@ -1,12 +1,27 @@
 #!/bin/sh
-# Slackware build script for aircrack-ng
+# Slackware build script for masscan
 # Written by wigums <wigums@protonmail.com>
 
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#                    Version 2, December 2004
+
+# Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+# Everyone is permitted to copy and distribute verbatim or modified
+# copies of this license document, and changing it is allowed as long
+# as the name is changed.
+
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+#  0. You just DO WHAT THE FUCK YOU WANT TO.
+
+
 PRGNAM=masscan
-VERSION=${VERSION:-1.0.4}
+VERSION=${VERSION:-1.0.5}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_wigums}
-LINK=${LINK:-"https://github.com/robertdavidgraham/masscan/archive/1.0.4.tar.gz"}
+LINK=${LINK:-"https://github.com/robertdavidgraham/masscan/archive/1.0.5.tar.gz"}
 
 if [ -z "$ARCH" ]; then
   case "$( uname -m )" in

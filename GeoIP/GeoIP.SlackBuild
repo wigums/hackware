@@ -29,10 +29,10 @@
 
 
 PRGNAM=GeoIP
-VERSION=${VERSION:-1.6.11}
+VERSION=${VERSION:-1.6.12}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_wigums}
-LINK=${LINK:-"https://github.com/maxmind/geoip-api-c/releases/download/v1.6.11/GeoIP-1.6.11.tar.gz"}
+LINK=${LINK:-"https://github.com/maxmind/geoip-api-c/releases/download/v1.6.12/GeoIP-1.6.12.tar.gz"}
 if [ -z "$ARCH" ]; then
   case "$( uname -m )" in
     i?86) ARCH=i486 ;;
